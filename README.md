@@ -1,6 +1,5 @@
 # 2026年01月更新🚀AppleID、镜像下载官方Clash、Shadowrocket、共享美区ID、小火箭
 
-🕛 **更新时间 ：`2025年12月16日10时`**  
 ❤️ **如果觉得不错可点⭐Star 收藏**  
 <br><br>
 
@@ -12,7 +11,7 @@
 |02.[镜像下载 Clash 等官方代理工具](https://github.com/wangzai69/fanqiang/blob/main/android/Clash.md)              |
 |03.[免费共享美区AppleID下载Shadowrocket小火箭](https://xhj.jd0901.top)   |
 |04.[租借Apple ID](https://xddsd.top)   |
-|05.[Apple ID自动解锁管理系统](https://zdgl.xddid.top)   |
+|05.[Apple ID自动解锁管理系统](https://ap.xddrrr.com)   |
 |06.[Clash Shadowrocket 图文教程](https://github.com/wangzai69/fanqiang/blob/main/wiki/%E4%BB%A3%E7%90%86%E5%B7%A5%E5%85%B7%E6%95%99%E7%A8%8B.md)               |
 |07.[小米/红米/oppo/vivo/华为/荣耀/谷歌框架](https://github.com/wangzai69/fanqiang/blob/main/wiki/GooglePlay.md)      |
 |08.[免拔卡 TikTok 苹果安卓教程](https://github.com/wangzai69/fanqiang/blob/main/wiki/TikTok.md)             |
